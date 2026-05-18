@@ -1,8 +1,19 @@
-# Swift Learning
+# Hi, I'm Dozan Ali 👋
 
-This repository contains my Swift practice projects.
+## BS IT Student
+Learning iOS Development and Swift.
 
-## Goals
-- Learn iOS Development
-- Build apps
-- Create portfolio for Germany
+## Current Goals
+- Build iOS Apps
+- Learn Swift
+- Create strong portfolio
+- Prepare for Germany opportunities
+
+## Technologies
+- Swift
+- UIKit
+- GitHub
+
+## Projects
+- Calculator App
+- Swift Learning Projects
